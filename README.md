@@ -6,6 +6,8 @@
 -->
 
 # Communicate using Markdown
+## H2
+### H3
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
