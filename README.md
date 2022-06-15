@@ -5,6 +5,7 @@
   Add your open source license, GitHub uses Creative Commons Attribution 4.0 International.
 -->
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 # Communicate using Markdown
 ## H2
 ### H3
